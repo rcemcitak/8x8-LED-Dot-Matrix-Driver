@@ -1,2 +1,2 @@
 # 8x8-LED-Dot-Matrix-Driver
-Intro. to Microprocessors term project. 
+Intro. to Microprocessors course term project. 
